@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  padding: 32px;
+  gap: 24px;
+}
+
+.cards_row {
+  display: flex;
+}
+
+.container{
+  display: flex;
+  gap: 4px;
+}
